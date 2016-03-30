@@ -1,0 +1,11 @@
+$Light-orange: #ff8c00;
+$navbar-default-color: $Light-orange;
+$navbar-default-bg: #312312;
+$navbar-default-Link-color: gray;
+$navbar-default-Link-active-color: $Light-orange;
+$navbar-default-Link-hover-color: white;
+$navbar-default-Link-hover-bg: black;
+
+@import 'bootstrap';
+
+body { padding-top: 60px; }
